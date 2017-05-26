@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page version="1.0">
+    <base>
+        <title>Test</title>
+        <description>Description</description>
+    </base>
+    <items>
+        <item type="type1">
+            <name>Item1</name>
+            <price>2000</price>
+        </item>
+        <item type="type2">
+            <name>Item2</name>
+            <price>2300</price>
+        </item>
+    </items>
+</page>
